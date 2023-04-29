@@ -11,5 +11,3 @@ Online Food Management system that allows administration and customer login. In 
     Delete Existing Dishes
     Show Users Data
     Show Bill Receipt
-# Food-Rental-System
-# Food-Rental-System
